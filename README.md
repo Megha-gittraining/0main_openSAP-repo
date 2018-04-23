@@ -1,2 +1,2 @@
 # 0main_openSAP-repo
-Main repository for GIT web ide training
+Main repository for [openSAP](http://opensap.com) GIT web ide training.
